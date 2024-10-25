@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Ranjan ☁️ is a DevOps practitioner specializing in cloud architecture and automation, leveraging AWS to streamline deployment and enhance system reliability. 💻</h3>
+<h3 align="left">"Ranjan | DevOps & Cloud enthusiast ☁️ | Automating the future 💻"</h3>
 
 ###
 
