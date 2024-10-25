@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">"Ranjan | DevOps & Cloud enthusiast ☁️ | Automating the future 💻"</h3>
+<h3 align="left">Ranjan ☁️ | DevOps enthusiast | Automating the future. 💻</h3>
 
 ###
 
-<img align="left" height="241" src="https://camo.githubusercontent.com/8f6403841f8fb8c75eadc1ad8c672671782ab8d8fcdd9a21b93425ab0c698094/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3732302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<img align="left" height="241" src="https://media1.tenor.com/m/aSvNzSQUVwAAAAAC/luffy-gear-5.gif" />
 
 ###
 
@@ -43,19 +43,18 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://simpleicons.org/icons/kubernetes.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/57/Kubernetes_logo.png" height="40" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://simpleicons.org/icons/prometheus.svg" height="40" alt="prometheus logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Prometheus_logo.svg" height="40" alt="prometheus logo" />
   <img width="12" />
-  <img src="https://simpleicons.org/icons/grafana.svg" height="40" alt="grafana logo" />
+  <img src="https://grafana.com/static/assets/img/grafana_icon.svg" height="40" alt="grafana logo" />
 </div>
 
 ###
