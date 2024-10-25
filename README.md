@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Ranjan is an engineering student passionate about Power electronics and the realm of DevOps and AWS Cloud!!!</h3>
+<h3 align="left">Ranjan is an engineering student passionate about the realm of DevOps and AWS Cloud!!!</h3>
 
 ###
 
-<img align="left" height="241" src="https://camo.githubusercontent.com/8f6403841f8fb8c75eadc1ad8c672671782ab8d8fcdd9a21b93425ab0c698094/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3732302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<img align="left" height="241" src="https://camo.githubusercontent.com/8f6403841f8fb8c75eadc1ad8c672671782ab8d8fcdd9a21b93425ab0c698094/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3732302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 ###
 
@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="right" height="241" src="https://gifdb.com/images/featured/luffy-am88vo5oczuk7eu9.gif"  />
+<img align="right" height="241" src="https://media.giphy.com/media/3o7qE2M4Z7gQwTPG4A/giphy.gif"  />
 
 ###
 
@@ -87,9 +87,7 @@
   <a href="https://www.instagram.com/ranjan.af/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="ranjansks143@gmail.com" target="_blank">
+  <a href="mailto:ranjansks143@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
