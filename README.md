@@ -1,8 +1,8 @@
-<h2 align="center">Heyy there👋, I'm Ranjan!</h2>
+<h2 align="center">Heyy there👋, I'm Ranjan !!</h2>
 
 ###
 
-<h3 align="left">Ranjan ☁️ | DevOps enthusiast | Automating the future. 💻</h3>
+<h3 align="left">Ranjan | DevOps enthusiast ☁️ | Automating the future 💻 </h3>
 
 ###
 
@@ -54,6 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nexus/nexus-original.svg" height="40" alt="nexus logo" />
 </div>
 
 ###
