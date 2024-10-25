@@ -43,7 +43,6 @@
 ###
 
 <div align="center">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
@@ -52,7 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Prometheus_logo.svg" height="40" alt="prometheus logo" />
+  <img src="https://prometheus.io/assets/prometheus_logo.svg" height="40" alt="prometheus logo" />
   <img width="12" />
   <img src="https://grafana.com/static/assets/img/grafana_icon.svg" height="40" alt="grafana logo" />
 </div>
