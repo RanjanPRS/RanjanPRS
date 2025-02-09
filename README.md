@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Ranjan | DevOps enthusiast ☁️ | Automating the future 💻 </h3>
+<h3 align="left">Ranjan | DevOps Engineer ☁️ </h3>
 
 ###
 
