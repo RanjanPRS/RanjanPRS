@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Ranjan | DevOps Engineer ☁️ </h3>
+<h3 align="left">Ranjan | DevOps & Cloud Engineer ☁️ </h3>
 
 ###
 
